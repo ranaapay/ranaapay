@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Rana,
 
-<!--
-**ranaapay/ranaapay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated from electronic communications engineering in 2021 and realized that my real passion is writing code. I started learning C# a year and a half ago and I've been interested in Golang since the beginning of 2022. I am a backend developer who is passionate about learning, interested in new technologies, and loves to research.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Golang
+- 💬 Ask me about anything
+- 📫 How to reach me: [@ranapay](https://www.linkedin.com/in/ranapay/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* Golang
+* MongoDB
+* SQL  (PostgreSql)
+* C#
+* Phyton
