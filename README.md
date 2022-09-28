@@ -11,4 +11,4 @@ I graduated from electronic communications engineering in 2021 and realized that
 * MongoDB
 * SQL  (PostgreSql)
 * C#
-* Phyton
+* Python
