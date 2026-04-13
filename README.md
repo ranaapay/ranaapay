@@ -1,14 +1,24 @@
-### Hi there 👋 My name is Rana,
+# Hi, I'm Rana 👋
 
-I graduated from electronic communications engineering in 2021 and realized that my real passion is writing code. I started learning C# a year and a half ago and I've been interested in Golang since the beginning of 2022. I am a backend developer who is passionate about learning, interested in new technologies, and loves to research.
+Backend Engineer focused on building scalable systems, data pipelines, and automation-heavy platforms.
 
-- 🌱 I’m currently learning Golang
-- 💬 Ask me about anything
-- 📫 How to reach me: [@ranapay](https://www.linkedin.com/in/ranapay/) 
+## 🚀 What I do
+- Design and build backend systems (Kotlin, Spring Boot, AWS)
+- Work on data pipelines, scraping systems, and analytics (Python, BigQuery)
+- Improve observability, performance, and system reliability
+- Build internal tools that reduce manual workload and increase automation
 
-## Skills and Experience
-* Golang
-* MongoDB
-* SQL  (PostgreSql)
-* C#
-* Python
+## 🧠 Recent Work
+- Built a **Voice AI evaluation platform (Voila)** — scenario-based simulation + real-call analysis, enabling parallel testing and performance scoring (latency, barge-in, overlap)
+- Developed **parallel scraping pipelines** for bot-protected platforms using Playwright, with data normalization and BigQuery integration
+- Designed **multi-tenant backend systems** with strong focus on performance and maintainability
+
+## 🛠 Tech Stack
+- **Backend:** Kotlin, Spring Boot, Python, Go
+- **Data:** PostgreSQL, MySQL, MongoDB, BigQuery
+- **Infra:** AWS (EC2, S3, RDS, Lambda), Docker
+- **Messaging:** Kafka, RabbitMQ
+- **Observability:** Grafana, Kibana
+
+## 📫 Reach me
+- LinkedIn: https://linkedin.com/in/ranapay
